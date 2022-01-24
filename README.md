@@ -6,7 +6,7 @@ This course introduces students to the natural deduction style of encoding proof
 
 ### Current and previous iteration of this course: 
 
-1. [Johns Hopkins University, Spring 2022]()
+1. [Johns Hopkins University, Spring 2022](https://introproofs.github.io/s22)
 2. [Johns Hopkins University, Fall 2021](https://introproofs.github.io/jhu301-f21/)
 
 
