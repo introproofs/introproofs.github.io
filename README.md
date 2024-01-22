@@ -4,7 +4,8 @@ This course introduces students to the natural deduction style of encoding proof
 
 ### Current and previous iteration of this course: 
 
-1. [Johns Hopkins University, Fall 2022, Sina Hazratpour](https://sinhp.github.io/teaching/2022-introduction-to-proofs-with-Lean)
-2. [Johns Hopkins University, Spring 2022, Sina Hazratpour](https://introproofs.github.io/s22)
-3. [Johns Hopkins University, Fall 2021, Sina Hazratpour](https://introproofs.github.io/jhu301-f21/)
-4. [Johns Hopkins University, Spring 2021, Emily Riehl](https://math.jhu.edu/~eriehl/301/)
+1. [Johns Hopkins University, Fall 2023, Sina Hazratpour](https://github.com/sinhp/ProofLab4/tree/master)
+2. [Johns Hopkins University, Fall 2022, Sina Hazratpour](https://sinhp.github.io/teaching/2022-introduction-to-proofs-with-Lean)
+3. [Johns Hopkins University, Spring 2022, Sina Hazratpour](https://introproofs.github.io/s22)
+4. [Johns Hopkins University, Fall 2021, Sina Hazratpour](https://introproofs.github.io/jhu301-f21/)
+5. [Johns Hopkins University, Spring 2021, Emily Riehl](https://math.jhu.edu/~eriehl/301/)
